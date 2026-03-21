@@ -131,16 +131,26 @@ GitHub Actions (daily schedule) → GitHub Pages
 
 ## 📊 What I've Learned Building These Projects
 
+```## 📖 What I've Learned Building These Projects
 ```python
 lessons = {
-    "always_version_your_models":    "V1 failed, V2 succeeded — save checkpoints!",
-    "silver_labels_have_a_ceiling":  "~15% noise → F1 plateaus at 0.80 no matter what",
-    "domain_knowledge_matters":      "Gold F1: 0.10 → 0.54 just by fine-tuning the LLM",
-    "less_human_work_more_ai":       "11 reviews instead of 100 = same quality, 89% less effort",
-    "smooth_loss_curves_are_poetry": "0.87 → 0.83, every step learning something new",
+    # M4 - Patent Claims
+    "always_version_your_models":      "V1 failed, V2 succeeded — save checkpoints!",
+    "silver_labels_have_a_ceiling":    "~15% noise → F1 plateaus at 0.80 no matter what",
+    "domain_knowledge_matters":        "Gold F1: 0.10 → 0.54 just by fine-tuning the LLM",
+    "less_human_work_more_ai":         "11 reviews instead of 100 = same quality, 89% less effort",
+    "smooth_loss_curves_are_poetry":   "0.87 → 0.83, every step learning something new",
+---
+    # M3 - Danish News NLP
+    "nlp_at_scale_is_hard":            "Classifying 280K+ Danish articles taught me to chunk smartly",
+    "zero_shot_has_limits":            "mDeBERTa performs well but ~15% noise is hard to overcome",
+    "topic_modeling_reveals_patterns": "BERTopic + UMAP uncovered hidden AI themes in Danish news",
+---
+    # M5 - Weather Pipeline
+    "automate_everything":             "GitHub Actions runs my pipeline daily — no manual work needed",
+    "apis_are_powerful":               "Open-Meteo + Groq API = real data + AI poem in under 30 seconds",
+    "llms_speak_many_languages":       "LLaMA 3.3 generated fluent Nepali poetry from weather numbers",
 }
-```
-
 ---
 
 ## 💡 Interests

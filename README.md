@@ -122,6 +122,12 @@ GitHub Actions (daily schedule) → GitHub Pages
 `Python` `Open-Meteo API` `SQLite` `Groq LLM` `GitHub Actions` `GitHub Pages`
 
 ---
+### 📰 [Danish News AI Classification & Topic Modeling](https://github.com/alina1999shrestha-blip/Semester_project_M3)
+> End-to-end NLP pipeline on a large Danish news dataset (2016–2024) from Hugging Face. Classified articles by news category and AI-relevance using **zero-shot** and **few-shot** NLI models, validated with confusion matrices, and performed **topic modeling** using BERTopic with sentence embeddings to uncover hidden themes in AI-related news.
+
+**Tech:** Python · Pandas · HuggingFace Transformers · BERTopic · SentenceTransformers · UMAP · HDBSCAN · Ollama · Matplotlib · Seaborn
+
+---
 
 ## 📊 What I've Learned Building These Projects
 

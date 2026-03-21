@@ -3,7 +3,6 @@
 # नमस्ते, I'm Alina Shrestha 👋
 
 **MSc Business Data Science · Aalborg University, Denmark**
-*Originally from Kathmandu, Nepal 🇳🇵*
 
 ## 📫 Get in Touch
 

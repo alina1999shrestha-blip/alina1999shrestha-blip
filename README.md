@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alina-shrestha-a0ba67270)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alina1999shrestha@gmail.com , ashre25@student.aau.dk)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/alinashrestha)
-> 🤗 4 published models · 229+ total downloads on Hugging Face
+> 🤗 4 published models 
 
 </div>
 
